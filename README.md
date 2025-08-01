@@ -21,7 +21,6 @@ It’s a phone. A dev board. A daily driver. A modular toolkit. You decide.
 
 📡 Global radio module system.
 
-🧠 Hack it. Flash it. Fork it.
 
 This isn’t a product. It’s a platform.
 
