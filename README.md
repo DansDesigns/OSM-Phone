@@ -6,13 +6,16 @@ Forget planned obsolescence. Forget locked bootloaders. Forget asking permission
 
 OSM‑Phone is a modular, open-source smartphone platform built for makers, hackers, or anyone who wants to escape closed ecosystems and planned obsolescence.
 
+
 Swap your compute module.
 Boot the OS you want.
 Repair, upgrade, or rebuild from scratch.
 No subscriptions. No lock-in. No nonsense.
 
+
 Whether you're running Android, Linux, building your own GUI or turning your device into a headless assistant, OSM‑Phone gives you total control.
 It’s a phone. A dev board. A daily driver. A modular toolkit. You decide.
+
 
 🛠️ Open. Modular. Evolving.
 
