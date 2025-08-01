@@ -1,6 +1,4 @@
-Introducing the worlds first fully
-
-Open-Source Modular Mobile Phone Platform - the Awesome Phone!
+Introducing the worlds first fully Open-Source Modular Mobile Phone Platform - the Awesome Phone!
 
 Designed to be the last Phone you buy!
 
