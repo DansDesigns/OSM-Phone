@@ -51,7 +51,7 @@ It’s a phone. A dev board. A daily driver. A modular toolkit. You decide.
 
 **Expansion Ready:**
 
-* GPIO access via POGO Pins for custom peripherals
+* POGO Pins for custom peripherals
 * Great platform for DIY moding, mesh network builds, or SDR tools
 
 
