@@ -11,6 +11,3 @@ Modular, repairable, built to evolve with technology and designed to outlive eve
 Go from Dumb-phone to Smartphone with just 2 changes!
 
 That truly is Awesome!
-
-https://494fe64500bfa445fdd0.cdn6.editmysite.com/uploads/b/494fe64500bfa445fdd04ef32a432ade2ee28ee628c38f084dac3d29ab6a2a30/supported_os_reflection2_1753450458.png?width=2400&optimize=medium
-Multiple OS Options!
