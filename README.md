@@ -17,12 +17,6 @@ Whether you're running Android, Linux, building your own GUI or turning your dev
 It’s a phone. A dev board. A daily driver. A modular toolkit. You decide.
 
 
-🛠️ Open. Modular. Evolving.
-
-📡 Global radio module system.
-
-
-This isn’t a product. It’s a platform.
 
 ---
 
