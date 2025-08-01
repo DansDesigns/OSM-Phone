@@ -1,6 +1,6 @@
-**OSM‑Phone**
+# **OSM‑Phone**
 
-The Last Phone You’ll Ever Need — Because You Actually Own It.
+## The Last Phone You’ll Ever Need — Because You Actually Own It.
 
 Forget planned obsolescence. Forget locked bootloaders. Forget asking permission to use your own hardware.
 
