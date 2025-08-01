@@ -31,7 +31,7 @@ It’s a phone. A dev board. A daily driver. A modular toolkit. You decide.
 * Banana Pi CM4 clone
 * Radxa CM3
 * RaspberryPi Zero-W/2 & compatible boards via custom CM4 adaptor
-* Or our own ESP32-S3 + RP2040 combo
+* Or our own ESP32-S3 + RP2350 combo
 * Blank CM4 dev adapters available — build your own compute board!
 
 
