@@ -1,7 +1,7 @@
 **OSM‑Phone**
 
 
--development forum: https://alternitech.freeforums.net/#category-1
+*development forum: https://alternitech.freeforums.net/#category-1
 
 The Last Phone You’ll Ever Need — Because You Actually Own It.
 
