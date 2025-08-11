@@ -1,13 +1,15 @@
 **OSM‑Phone**
 
+***The Last Phone You’ll Ever Need — Because You Actually Own It.***
 
-*development forum: https://alternitech.freeforums.net/#category-1
 
-The Last Phone You’ll Ever Need — Because You Actually Own It.
 
 Forget planned obsolescence. Forget locked bootloaders. Forget asking permission to use your own hardware.
 
 OSM‑Phone is a modular, open-source smartphone platform built for makers, hackers, and anyone who wants to escape closed ecosystems.
+
+*development forum: https://alternitech.freeforums.net/#category-1*
+
 
 Swap your compute module.
 Boot the OS you want.
