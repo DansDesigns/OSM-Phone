@@ -10,6 +10,7 @@ OSM‑Phone is a modular, open-source smartphone platform built for makers, hack
 
 *development forum: https://alternitech.freeforums.net/#category-1*
 
+*Progress Tracker: https://alternitech.freeforums.net/thread/14/project-status*
 
 Swap your compute module.
 Boot the OS you want.
