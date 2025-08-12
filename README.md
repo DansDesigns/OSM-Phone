@@ -75,3 +75,8 @@ Now it’s time to liberate your pocket.
 
 Own your hardware. Fork your firmware.
 OSM‑Phone isn’t built for everyone — it’s built for you!
+
+
+* In the Spirit of OpenSource Cooperation, here are some other Modular Smartphone Projects: *
+* https://github.com/evanman83/OURS-project
+* https://github.com/V3lectronics/SPIRIT
