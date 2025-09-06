@@ -7,8 +7,11 @@
 *Progress Tracker: https://alternitech.freeforums.net/thread/14/project-status*
 
 No planned obsolescence.
+
 No e-waste.
+
 No locked bootloaders.
+
 No asking permission to use your own hardware.
 
 OSM‑Phone is a modular, open-source Smartphone designed to put at end to the current cyclical nature of Smartphones.
