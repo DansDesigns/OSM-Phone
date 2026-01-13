@@ -1,16 +1,21 @@
 **OSM‑Phone**
 
-***The Last Phone You’ll Ever Need — Because You Actually Own It.***
-
-
-
-Forget planned obsolescence. Forget locked bootloaders. Forget asking permission to use your own hardware.
-
-OSM‑Phone is a modular, open-source smartphone platform built for makers, hackers, and anyone who wants to escape closed ecosystems.
+***The Last Phone You’ll Ever Buy.***
 
 *development forum: https://alternitech.freeforums.net/#category-1*
 
 *Progress Tracker: https://alternitech.freeforums.net/thread/14/project-status*
+
+No planned obsolescence.
+
+No e-waste.
+
+No locked bootloaders.
+
+No asking permission to use your own hardware.
+
+OSM‑Phone is a modular, open-source Smartphone designed to put at end to the current cyclical nature of Smartphones.
+
 
 Swap your compute module.
 Boot the OS you want.
@@ -18,12 +23,7 @@ Repair, upgrade, or rebuild from scratch.
 No subscriptions. No lock-in. No nonsense.
 
 Whether you're running Android or Linux, Gaming or Working on-the-go, OSM‑Phone gives you total control.
-It’s a phone. A dev board. A retro gaming console. A daily driver. You decide.
-
-🛠️ Open. Modular. Evolving.
-📡 M.2 radio module system.
-🧠 Hack it. Flash it. Fork it.
-This isn’t a product. It’s a platform.
+It’s a Phone. A Desktop, A dev board. A Retro Gaming Console. A daily driver - You decide.
 
 ---
 
@@ -73,7 +73,6 @@ Community First:
 
 Now it’s time to liberate your pocket.
 
-Own your hardware. Fork your firmware.
 OSM‑Phone isn’t built for everyone — it’s built for you!
 
 
