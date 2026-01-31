@@ -4,9 +4,11 @@
 
 
 OS Previews:
+
 Alternix:
 ![Alternix_preview](https://github.com/DansDesigns/OSM-Phone/blob/main/OS%20Concepts/Alternix_Preview.png)
 
+WOSP:
 ![WOSP_Preview](https://github.com/DansDesigns/OSM-Phone/blob/main/OS%20Concepts/WOSP_Preview.png)
 *development forum: https://alternitech.freeforums.net/#category-1*
 
