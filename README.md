@@ -1,6 +1,8 @@
 **OSM‑Phone**
 
 ***The Last Phone You’ll Ever Buy.***
+
+
 OS Previews:
 Alternix:
 ![Alternix_preview](https://github.com/DansDesigns/OSM-Phone/blob/main/OS%20Concepts/Alternix_Preview.png)
