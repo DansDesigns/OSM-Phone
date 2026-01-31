@@ -5,7 +5,7 @@
 
 OS Previews:
 
-![Alternix:](https://github.com/DansDesigns/Alternix)
+[Alternix:](https://github.com/DansDesigns/Alternix)
 ![Alternix_preview](https://github.com/DansDesigns/OSM-Phone/blob/main/OS%20Concepts/Alternix_Preview.png)
 
 WOSP:
