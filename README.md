@@ -1,7 +1,11 @@
 **OSM‑Phone**
 
 ***The Last Phone You’ll Ever Buy.***
+OS Previews:
+Alternix:
+![Alternix_preview](https://github.com/DansDesigns/OSM-Phone/blob/main/OS%20Concepts/Alternix_Preview.png)
 
+![WOSP_Preview](https://github.com/DansDesigns/OSM-Phone/blob/main/OS%20Concepts/WOSP_Preview.png)
 *development forum: https://alternitech.freeforums.net/#category-1*
 
 *Progress Tracker: https://alternitech.freeforums.net/thread/14/project-status*
