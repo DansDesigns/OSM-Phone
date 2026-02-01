@@ -7,7 +7,8 @@ OS Previews:
 
 [Alternix:](https://github.com/DansDesigns/Alternix)
 ![Alternix_preview](https://github.com/DansDesigns/OSM-Phone/blob/main/OS%20Concepts/Alternix_Preview.png)
-
+[Alternix-Mobile:](https://github.com/DansDesigns/Alternix-Mobile)
+![Alternix-Mobile](https://github.com/DansDesigns/OSM-Phone/blob/main/OS%20Concepts/Alternix_Mobile.png)
 [WOSP-OS:](https://github.com/DansDesigns/WOSP-OS)
 ![WOSP_Preview](https://github.com/DansDesigns/OSM-Phone/blob/main/OS%20Concepts/WOSP_Preview.png)
 *development forum: https://alternitech.freeforums.net/#category-1*
