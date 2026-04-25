@@ -1,11 +1,10 @@
-**OSM‑Phone**
-
+# OSM‑Phone
 ***The Last Phone You’ll Ever Buy.***
 
 
 ![OSM-Phone](https://github.com/DansDesigns/OSM-Phone/blob/main/Pictures/Picture3.png?raw=true)
 
-OS Previews:
+# OS Previews:
 
 [Alternix-Mobile:](https://github.com/DansDesigns/Alternix-Mobile)
 ![Alternix-Mobile](https://github.com/DansDesigns/OSM-Phone/blob/main/OS%20Concepts/Alternix_Mobile.png)
@@ -13,7 +12,7 @@ OS Previews:
 ![WOSP_Preview](https://github.com/DansDesigns/OSM-Phone/blob/main/OS%20Concepts/WOSP_Preview.png)
 *development forum: https://alternitech.freeforums.net/#category-1*
 
-*Progress Tracker: https://alternitech.freeforums.net/thread/14/project-status*
+**Progress Tracker: https://alternitech.freeforums.net/thread/14/project-status**
 
 No planned obsolescence.
 
@@ -31,7 +30,7 @@ Boot the OS you want.
 Repair, upgrade, or rebuild from scratch.
 No subscriptions. No lock-in. No nonsense.
 
-Compute Module:
+**Compute Module:**
 ```
 * Standard RaspberryPi-CM4 pinout
 * Compatible with:
@@ -43,7 +42,7 @@ Compute Module:
 ```
 
 
-Operating Systems:
+**Operating Systems:**
 ```
 * Android
 * Linux distros (Ubuntu Touch, PostmarketOS, etc.)
@@ -51,7 +50,7 @@ Operating Systems:
 ```
 
 
-Modular RF / Connectivity:
+**Modular RF / Connectivity:**
 ```
 * Region-selectable & swappable radio modems
 * Pick your LTE, LORA or WiFi-HaLow module — or design your own.
