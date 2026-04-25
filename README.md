@@ -1,6 +1,9 @@
 # OSM‑Phone
 ***The Last Phone You’ll Ever Buy.***
 
+OSM‑Phone is a modular, open-source Smartphone designed to put at end to the current cyclical nature of Smartphones.
+
+
 
 ![OSM-Phone](https://github.com/DansDesigns/OSM-Phone/blob/main/Pictures/Picture3.png?raw=true)
 
@@ -21,8 +24,6 @@ No e-waste.
 No locked bootloaders.
 
 No asking permission to use your own hardware.
-
-OSM‑Phone is a modular, open-source Smartphone designed to put at end to the current cyclical nature of Smartphones.
 
 
 Swap your compute module.
