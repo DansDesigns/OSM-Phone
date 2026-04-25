@@ -30,6 +30,8 @@ Boot the OS you want.
 Repair, upgrade, or rebuild from scratch.
 No subscriptions. No lock-in. No nonsense.
 
+# Overview
+
 **Compute Module:**
 ```
 * Standard RaspberryPi-CM4 pinout
