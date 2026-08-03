@@ -3,10 +3,9 @@
 
 OSM‑Phone is a modular, open-source Smartphone designed to put at end to the current cyclical nature of Smartphones.
 
+[![YouTube](http://i.ytimg.com/vi/D7HxuRQRYpo/hqdefault.jpg)](https://www.youtube.com/watch?v=D7HxuRQRYpo)
 
-
-![OSM-Phone](https://github.com/DansDesigns/OSM-Phone/blob/main/Pictures/Picture3.png?raw=true) [![YouTube](http://i.ytimg.com/vi/D7HxuRQRYpo/hqdefault.jpg)](https://www.youtube.com/watch?v=D7HxuRQRYpo)
-
+![OSM-Phone](https://github.com/DansDesigns/OSM-Phone/blob/main/Pictures/Picture3.png?raw=true) 
 
 # OS Previews:
 
