@@ -6,7 +6,7 @@ OSM‑Phone is a modular, open-source Smartphone designed to put at end to the c
 
 
 ![OSM-Phone](https://github.com/DansDesigns/OSM-Phone/blob/main/Pictures/Picture3.png?raw=true)
-
+![development video](https://www.youtube.com/watch?v=D7HxuRQRYpo)
 # OS Previews:
 
 [Alternix:](https://github.com/DansDesigns/Alternix)
